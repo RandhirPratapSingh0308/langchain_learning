@@ -8,3 +8,5 @@ langchain-google-genai
 ipykernel
 langchain-tavily
 tavily-python
+langchain-mcp-adapters
+mcp
